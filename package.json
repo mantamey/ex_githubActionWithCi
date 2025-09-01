@@ -1,0 +1,24 @@
+{
+  "name": "ex_githubactionwithci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mantamey/ex_githubActionWithCi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mantamey/ex_githubActionWithCi/issues"
+  },
+  "homepage": "https://github.com/mantamey/ex_githubActionWithCi#readme",
+  "devDependencies": {
+    "chai": "^6.0.1",
+    "mocha": "^11.7.1"
+  }
+}
