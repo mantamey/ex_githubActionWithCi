@@ -20,6 +20,11 @@
   "homepage": "https://github.com/mantamey/ex_githubActionWithCi#readme",
   "devDependencies": {
     "chai": "^6.0.1",
-    "mocha": "^11.7.1"
+    "eslint": "^9.0.0",
+    "@eslint/js": "^9.0.0",
+    "global": "^15.0.0",
+    "mocha": "^11.7.1",
+    "install": "^0.13.0"
+
   }
 }
